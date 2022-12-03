@@ -13,7 +13,7 @@ class Dot {
   }
 
   updateStyles() {
-    this.element.style.height = "50px";
+    this.element.style.height = "40px";
     this.element.style.width = "50px";
     this.element.style.borderRadius = "100px";
     this.element.style.background = this.color;
